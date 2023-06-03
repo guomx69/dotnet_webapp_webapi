@@ -1,0 +1,2 @@
+1)WebApp(razor page) and WebAPI share the same database
+2)Web App login use Phone Number not email.
